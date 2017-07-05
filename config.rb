@@ -52,8 +52,9 @@ end
 configure :build do
   activate :minify_css
   activate :minify_javascript
-
-  activate :asset_host, :host => '//keithiopia.github.io/style-doc-test'
+###
+#  activate :asset_host, :host => '//keithiopia.github.io/style-doc-test'
+###
 end
 
 ###

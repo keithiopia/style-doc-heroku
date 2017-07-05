@@ -1,10 +1,10 @@
 # Host to use for canonical URL generation (without trailing slash)
-host: https://keithiopia.github.io/style-doc-test/
+host: https://style-guide-proto/herokuapp.com
 
 # Header-related options
 show_govuk_logo: true
 service_name: Publishing guidance
-service_link: https://keithiopia.github.io/style-doc-test
+service_link: https://style-guide-proto/herokuapp.com
 phase: Prototype
 
 # Links to show on right-hand-side of header
