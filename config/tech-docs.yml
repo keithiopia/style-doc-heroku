@@ -9,8 +9,8 @@ phase: Prototype
 
 # Links to show on right-hand-side of header
 header_links:
-  A to Z: /style-guide.html
-  Writing for the web: /get-started.html
+  A to Z: /style-guide
+  Writing for the web: /get-started
   Using the publishing apps: '/'
   Feedback: https://www.gov.uk/contact/govuk
 
