@@ -9,6 +9,7 @@ gem 'wdm', '~> 0.1.0', platforms: [:mswin, :mingw]
 gem 'tzinfo-data', platforms: [:mswin, :mingw, :jruby]
 
 # Heroku Gems
+gem 'rake'
 gem 'rack-contrib', '~> 1.4'
 gem 'puma', '~> 3.9', '>= 3.9.1'
 

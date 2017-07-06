@@ -131,6 +131,7 @@ GEM
       rack (~> 1.4)
     rack-livereload (0.3.16)
       rack
+    rake (10.4.2)
     rb-fsevent (0.10.2)
     rb-inotify (0.9.10)
       ffi (>= 0.5.0, < 2)
@@ -162,6 +163,7 @@ DEPENDENCIES
   middleman-syntax (~> 3.0.0)
   puma (~> 3.9, >= 3.9.1)
   rack-contrib (~> 1.4)
+  rake
   redcarpet (~> 3.3.2)
   table_of_contents!
   tzinfo-data

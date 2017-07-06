@@ -41,6 +41,15 @@ activate :sprockets
 activate :syntax
 
 ###
+#Heroku stuff
+###
+# Use “pretty” URLs (without the `.html` suffix)
+activate :directory_indexes
+
+# Append hashes to compiled assets
+activate :asset_hash
+
+###
 # Helpers
 ###
 
