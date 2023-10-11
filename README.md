@@ -75,4 +75,3 @@ the HTML and asset files which can be commited and pushed and it'll be served by
 
 [rvm]: https://www.ruby-lang.org/en/documentation/installation/#managers
 [bundler]: http://bundler.io/
-# style-doc-test
